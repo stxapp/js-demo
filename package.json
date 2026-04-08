@@ -1,0 +1,14 @@
+{
+  "name": "@stxapp/js-demo",
+  "version": "1.0.0",
+  "description": "JavaScript examples for STX API integration — login, market data, WebSocket streaming, and order placement.",
+  "type": "module",
+  "scripts": {
+    "quickstart": "node quickstart.mjs",
+    "order-test": "node order-test.mjs"
+  },
+  "dependencies": {
+    "phoenix": "^1.7.0",
+    "ws": "^8.0.0"
+  }
+}
