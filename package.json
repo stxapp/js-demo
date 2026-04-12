@@ -5,7 +5,10 @@
   "type": "module",
   "scripts": {
     "quickstart": "node quickstart.mjs",
-    "order-test": "node order-test.mjs"
+    "order-test": "node order-test.mjs",
+    "market-info": "node market-info.mjs",
+    "market-watch": "node market-watch.mjs",
+    "latency-test": "node latency-test.mjs"
   },
   "dependencies": {
     "phoenix": "^1.7.0",
