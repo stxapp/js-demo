@@ -1,5 +1,7 @@
 # STX JS Demo
 
+> **This repository is archived.** The maintained JavaScript examples are in [stxapp/stx-api-examples](https://github.com/stxapp/stx-api-examples/tree/main/javascript), which use API-key request signing.
+
 JavaScript examples for the STX API — login, market data, WebSocket streaming, order placement, and latency benchmarking.
 
 ## Setup
